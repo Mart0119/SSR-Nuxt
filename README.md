@@ -6,7 +6,7 @@
 
 ``` bash
 # install dependencies
-$ yarn install
+$ yarn install 安装依赖
 
 # serve with hot reload at localhost:3000
 $ yarn dev
