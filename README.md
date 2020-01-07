@@ -1,6 +1,5 @@
-# ssr_nuxt
-
-> My cat&#39;s meow Nuxt.js project
+# 安装yarn
+npm install -g yarn
 
 ## Build Setup
 
@@ -9,10 +8,10 @@
 $ yarn install 安装依赖
 
 # serve with hot reload at localhost:3000
-$ yarn dev
+$ yarn dev 本地运行
 
 # build for production and launch server
-$ yarn build
+$ yarn build 打包
 $ yarn start
 
 # generate static project
